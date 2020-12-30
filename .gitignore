@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MeetingRoomScheduler/.vs/MeetingRoomScheduler/v15
+/MeetingRoomScheduler/MeetingRoomScheduler/bin/Debug/netcoreapp1.1
+/MeetingRoomScheduler/MeetingRoomScheduler/obj
